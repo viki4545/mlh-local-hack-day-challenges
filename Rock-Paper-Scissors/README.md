@@ -7,4 +7,8 @@ This repositry contains code for rock, paper and scissors game for the local hac
   2.Paper(🤚).
   
   3.Scissors(✌).
+  
+  > You play by clicking the above emojis with the opponent computer bot.
+
+  > And Score will increment with respect to the winner.
 
